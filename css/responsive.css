@@ -348,6 +348,9 @@
   }
 
   @media only screen and (max-width: 426px) {
+    .nav-logo{
+        margin-left:1.5rem;
+    }
 
     .nav-links{
         display: none;
@@ -379,6 +382,13 @@
     {
         width: 100%;
         min-height: 30vh;
+    }
+    .Sponsors-block{
+        justify-content: center;
+    }
+
+    .Sponsors-block>hr{
+    display: none;
     }
 
     .navigate-page-bottom>div>div:last-of-type{
@@ -428,7 +438,10 @@
     .image1
     {
         background-color: rgba(0, 0, 0, 0.747);
-        min-height: 30vh;
+        
+    }
+    .image4{
+        flex-direction: row;
     }
 
     .image1>div,.image2>div,.image4>div,.image3>div {
@@ -442,7 +455,7 @@
     {
         display: flex;
         min-height: 40vh;
-        justify-content: space-between;
+        justify-content: start;
         flex-direction: column;
     }
 
@@ -457,11 +470,18 @@
         line-height: normal;
     }
 
+   
+
     .feature-heading-typ2
     {
         font-size: 28px;
     }
-    
+    .ad-sec-typ2-heading {
+        line-height: normal;
+    }
+   .team{
+    width: 100%;
+    }
     .feature-two
     {
         flex-direction: column;
