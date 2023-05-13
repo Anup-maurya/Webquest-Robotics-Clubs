@@ -1,0 +1,564 @@
+@media only screen and (max-width: 2060px) {
+    .nav-logo
+    {
+        margin-left: 12vw;
+    }
+
+  }
+
+@media only screen and (max-width: 1440px) {
+    .news-heading{
+        font-size: 1em;
+    }
+    .news-block-sub-heading{
+        font-size: 1.2rem;
+    }
+    .nav-logo
+    {
+        margin-left: 10vw;
+    }
+
+    .image1>div {
+        padding-top: 60px;
+        width: 40%;
+    }
+
+
+        .image-section
+        {
+            max-width: 80vw;
+        }
+
+        .feature-section
+        {
+            min-width: 80vw;
+        }
+
+        .ad-section
+        {
+            min-width: 80vw;
+            min-height: 30vh;
+        }
+
+        .ad-heading
+        {
+            width: 40vw;
+        }
+
+        .experience
+        {
+            height: 35vh;
+        }
+
+        .ad-section-typ2>div
+        {
+            width: 80vw;
+        }
+
+        .footer-links>div
+        {
+            width: 80vw;
+        }
+
+        .footer-copyright>div
+        {
+            width: 80vw;
+  
+        }
+      
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .news-heading{
+        font-size: 0.7em;
+    }
+    .news-block-sub-heading{
+        font-size: 1rem;
+    }
+    .feedback-section {
+    background-color: #f3f3f3;
+    width: 90%;
+    
+    }
+
+    .nav-links{
+        display: none;
+    }
+
+    .nav-logo
+    {
+        margin-left: 7vw;
+    }
+    .navbar{
+        width: 91%;
+    }
+
+    .navigate-bg{
+        width: 35%;
+    }
+
+    .navigate-page, .industries-page, .services-page, .platforms-page, .labs-page, .knowledge-page, .about-page
+    {
+        width: 100%;
+    }
+
+    .close-page{
+        display: block;
+    }
+
+    .scroller-nav
+    {
+        display: none;
+    }
+
+    .image1,.image2, .image3 , .image4
+    {
+        min-height: 70vh;
+    }
+
+    .heading
+    {
+        font-size: 45px;
+        line-height: normal;
+    }
+
+    .sub-heading
+    {
+        font-size: 15px;
+    }
+        .image1>div,.image2>div,.image4>div {
+            margin-left: 4rem;
+            margin-top: 1rem;
+        }
+
+
+        .Sponsors-block{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .case-studies{
+            display: none;
+        }
+
+        .image3>div {
+            margin-right: 5rem;
+        }
+
+        .image-section
+        {
+            min-width: 90vw;
+        }
+
+        .experience
+        {
+            height: 35vh;
+        }
+
+        .feature-section
+        {
+            min-width: 90vw;
+        }
+        .image4>div
+{
+    margin-right: 4rem;
+    width: 50%;
+   
+}
+
+        .ad-section
+        {
+            min-width: 90vw;
+            min-height: 30vh;
+        }
+
+        .ad-heading
+        {
+            width: 50vw;
+        }
+
+        .ad-section-typ2>div
+        {
+            width: 90vw;
+        }
+
+        .footer-links>div
+        {
+            width: 90vw;
+        }
+
+        .footer-copyright>div
+        {
+            width: 90vw;
+        }
+  }
+
+  @media only screen and (max-width: 768px) {
+
+    .testimonals{
+        display: none;
+      }
+    
+    .nav-logo
+    {
+        margin-left: 13vw;
+    }
+    .nav-links{
+        display: none;
+    }
+    .navigate-bg{
+        width: 100%;
+    }
+    .navbar{
+        width: 88%;
+    }
+    .search
+    {
+        margin-right: 1rem;
+    }
+     
+    .case-studies>div:last-of-type {
+        flex-direction: column;
+    }
+
+    .case-studies>div:last-of-type>div {
+        margin-bottom: 30px;
+    }
+
+    .navigate-page p {
+        font-size: 20px;
+    }
+
+    .search-bg-top>div>div:last-of-type>p {
+        font-size: 80%;
+    }
+     
+    .section-heading
+    {
+        font-size: 55px;
+    }
+    
+    .section-para
+    {
+        font-size: 32px;
+    }
+
+    .feature-heading
+    {
+        max-width: 30%;
+    }
+    .heading{
+        font-size: 32px;
+    }
+
+    .ad-heading
+    {
+        font-size: 35px;
+    }
+
+    .sub-image-section
+    {
+        width: 100%;
+    }
+    
+    .sub-image-section>div
+    {
+        width: 50%;
+        height: 20vh;
+    }
+
+    .feature-section
+    {
+        flex-wrap: wrap;
+        margin-top: 50px;
+    }
+
+    .feature-section>div
+    {
+        flex: 0 0 50%;
+        margin-bottom: 30px;
+    }
+
+    .experience
+    {
+        display: none;
+    }
+    
+    .experience-in-sub
+    {
+        background-image: url(/image/experience.webp);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        align-items: flex-end;
+        display: flex;
+    }
+
+    .image-section-typ2
+    {
+        flex-direction: column;
+    }
+    
+    .image4>div
+{
+    margin-right: 2rem;
+    width: 50%;
+   
+}
+    .news-block
+    {
+        width: 100%;
+    }
+
+    .investors-report
+    {
+        width: 100%;
+        height: 30vh;
+    }
+
+    .investor-block
+    {
+        width: 100%;
+    }
+
+    
+    .ad-section-typ2>div
+    {
+        flex-direction: column;
+    }
+
+    .ad-section-typ2>div>div {
+        width: 100%;
+    }
+
+    .ad-sec-typ2-heading {
+        font-size: 20px;
+    }
+
+    .region-section>div {
+         padding: 7% 3%;
+    }
+
+    .button-style
+    {
+        font-size: 12px;
+        padding: 10px 40px;
+    }
+   
+  }
+
+  @media only screen and (max-width: 426px) {
+
+    .nav-links{
+        display: none;
+    }
+
+    .navbar{
+        width: 84%;
+    }
+
+    .closenav
+    {
+       margin-right: 1.5rem;
+    }
+
+    .platforms-page-links>div
+    {
+        width: 100%;
+    }
+
+    .industries-page-links>div{
+        width: 100%;
+    }
+
+    .navigate-page, .industries-page, .services-page, .platforms-page, .labs-page, .knowledge-page, .about-page{
+        overflow: scroll;
+    }
+
+    .navigate-page-bottom>div
+    {
+        width: 100%;
+        min-height: 30vh;
+    }
+
+    .navigate-page-bottom>div>div:last-of-type{
+        min-height: 0;
+    }
+
+    .navigate-page-img
+    {
+        height: 30vh;
+    }
+
+    .navigate-page-img div p
+    {
+        height: 30vh;
+    }
+
+    .image2, .image3 , .image4
+    {
+        min-height: 55vh;
+        background-size: 170%;
+        background-position: right 60%;
+    }
+
+    .image3
+    {
+        background-image: url(/image/digital-operating-models-lead-mob.webp);
+        background-size: 100%;
+    }
+
+    .heading
+    {
+        font-size: 35px;
+        line-height: normal;
+    }
+
+    .case-studies
+    {
+        display: none;
+    }
+
+    .button-style
+    {
+        font-size: 8px;
+        padding: 10px 40px;
+    }
+
+    .image1
+    {
+        background-color: rgba(0, 0, 0, 0.747);
+        min-height: 30vh;
+    }
+
+    .image1>div,.image2>div,.image4>div,.image3>div {
+        margin-left: 1.5rem;
+        margin-top: 0rem;
+        left: 0;
+        width: 70%;
+    }
+
+    .image2>div,.image4>div,.image3>div
+    {
+        display: flex;
+        min-height: 40vh;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    .section-heading
+    {
+        font-size: 45px;
+    }
+
+    .section-para
+    {
+        font-size: 20px;
+        line-height: normal;
+    }
+
+    .feature-heading-typ2
+    {
+        font-size: 28px;
+    }
+    
+    .feature-two
+    {
+        flex-direction: column;
+    }
+
+    .feature-two>div
+    {
+        margin-bottom: 50px;
+    }
+
+    .feature-two>div:last-of-type
+    {
+        margin-bottom: 10px;
+    }
+
+    .ad-heading
+    {
+        font-size: 27px;
+        width: 67vw;
+    }
+
+    .feature-heading
+    {
+        max-width: 60%;
+    }
+
+    .image-section
+    {
+        width: 90vw;
+    }
+
+    .sub-image-section>div
+    {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .news-block
+    {
+        margin-bottom: 20px;
+    }
+
+    .news-section-typ2
+    {
+        padding: 1rem;
+    }
+
+    .news-sub-block
+    {
+        padding: 1rem;
+    }
+
+    .news-block-heading
+    {
+        font-family: MyriadPro-Light;
+    }
+    
+    .feedback-section
+    {
+        display: none;
+    }
+
+    .feedback-section-mob
+    {
+        display: flex;
+    }
+
+    .feedback-section-mob
+    {
+        background-color: #f3f3f3;
+        width: 90vw;
+    }
+    
+    .feedback-section-mob>div
+    {
+        display: flex;
+        align-items: center;
+        padding: 10% 5%;
+    }
+
+    .mb-0
+    {
+        margin-bottom: 0%;
+    }
+
+    .footer-links>div
+    {
+        padding: 10% 0;
+    }
+
+    .footer-copyright>div
+    {
+        flex-direction: column;
+    }
+
+    .footer-copyright>div>div
+    {
+        padding-bottom: 20px;
+    }
+  }
